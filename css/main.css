@@ -230,17 +230,29 @@ p {
 	margin-right: 5px;
 }
 
-.linked-in {
-	background: #0074b0;
+.xiaohongshu {
+	background: #f8f9fa;
+}
+.xiaohongshu img {
+	height: 30px;
+    width: 30px;
 }
 
-.google-scholar {
-	background: #0d2240;
+.bilibili {
+	background: #f8f9fa;
+}
+.bilibili img {
+	height: 30px;
+    width: 30px;
 }
 
-.google-scholar img {
-	height: 15px;
-    width: 13px;
+
+.github-square {
+	background: #f8f9fa;
+}
+.github-square img {
+	height: 30px;
+    width: 30px;
 }
 .instagram {
 	background: #d6249f;
