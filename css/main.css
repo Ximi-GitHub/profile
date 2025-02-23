@@ -6,12 +6,19 @@ body {
 	padding-top: 10px;
     padding-bottom: 10px;
 }
-
 .avatar img {
 width: 135px;
 border: 1px solid #f2f2f2;
 border-radius: 50px;
 padding: 5px;
+}
+
+.chinese-font-blod {
+    color: #333;
+	font-size: 1em;
+    font-weight: bold;
+    padding: 0px;
+
 }
 
 .profile-info {
@@ -247,12 +254,21 @@ p {
 }
 
 
-.github-square {
+.github {
 	background: #f8f9fa;
 }
-.github-square img {
+.github img {
 	height: 30px;
     width: 30px;
+}
+
+.notion {
+	background: #f8f9fa;
+}
+.notion img {
+	height: 27px;
+    width: 27px;
+    margin-top: 1.5px;
 }
 .instagram {
 	background: #d6249f;
